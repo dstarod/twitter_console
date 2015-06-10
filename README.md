@@ -1,4 +1,4 @@
-Golang example how to track twitter feed in real-time.
+An example how to track stream of tweets in real-time on Golang.
 
 How to use (you have to [install golang](http://golang.org/doc/install) before):
 
